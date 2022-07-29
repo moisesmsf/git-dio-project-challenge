@@ -1,8 +1,8 @@
 # Git and Github DIO Project Challenge
 Hi[^1]. 
-This repo is part of the activity contained in the **Linux Experience** bootcamp **Git and Github** course taught by teacher [@falvojr](https://github.com/falvojr) :man_teacher: and offered by [DIO](https://www.dio.me) :school:.
+Este repo é parte da atividde contida no curso **Git e Github** do bootcamp **Linux Experience** ministrado pelo professor [@falvojr](https://github.com/falvojr) :man_teacher: e ofertado pela [DIO](https://www.dio.me) :school:.
 
-## Personal list of top git commands
+## Lista de principais comandos git
 ```
 git config (--global user.name "name") (--global user.email "email") (--global alias.name command)
 ```
@@ -76,4 +76,4 @@ git stash (apply) (list) (clear)
 ![Git logo](/assets/img/logo-git-2x.png)
 ![Github logo](/assets/img/GitHub_Logo_White.png)
 
-[^1]: My github page: [https://moisesmsf.github.io](https://moisesmsf.github.io)
+[^1]: Meu github page: [https://moisesmsf.github.io](https://moisesmsf.github.io)
