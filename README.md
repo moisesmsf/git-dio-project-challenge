@@ -1,5 +1,5 @@
 # Git and Github DIO Project Challenge
-Hi[^1]. 
+Oi[^1]. 
 Este repo é parte da atividde contida no curso **Git e Github** do bootcamp **Linux Experience** ministrado pelo professor [@falvojr](https://github.com/falvojr) :man_teacher: e ofertado pela [DIO](https://www.dio.me) :school:.
 
 ## Lista de principais comandos git
