@@ -1,6 +1,6 @@
 # Git and Github DIO Project Challenge
-Hi! 
-This repo is part of the activity contained in the **Linux Experience** bootcamp **Git and Github** course taught by teacher [@falvojr](https://github.com/falvojr) and offered by [DIO](https://www.dio.me).
+Hi[^1]. 
+This repo is part of the activity contained in the **#f4d714Linux Experience** bootcamp **Git and Github** course taught by teacher [@falvojr](https://github.com/falvojr) :man_teacher: and offered by [DIO](https://www.dio.me) :school:.
 
 ## Personal list of top git commands
 ```
@@ -28,3 +28,8 @@ git revert (commit-hash)
 git reset (--soft, --mixed, --hard)
 git stash (apply) (list) (clear)
 ```
+
+![Git logo](/assets/img/logo-git-2x.png)
+![Github logo](/assets/img/GitHub_Logo_White.png)
+
+[^1]: My github page: [https://moisesmsf.github.io](https://moisesmsf.github.io)
