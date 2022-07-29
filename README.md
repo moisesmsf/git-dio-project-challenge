@@ -1,6 +1,6 @@
 # Git and Github DIO Project Challenge
 Hi! 
-This repo is part of the activity contained in the **Linux Experience** bootcamp **Git and Github** course taught by teacher @falvojr and offered by [DIO](https://www.dio.me).
+This repo is part of the activity contained in the **Linux Experience** bootcamp **Git and Github** course taught by teacher [@falvojr](https://github.com/falvojr) and offered by [DIO](https://www.dio.me).
 
 ## Personal list of top git commands
 ```
